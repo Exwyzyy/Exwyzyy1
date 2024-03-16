@@ -1,1 +1,6 @@
-# напиши здесь код для хранения текстовых инструкций для приложения
+from PyQt5.QtCore import Qt
+from PyQt5.QtWidgets import (
+        QApplication, QWidget,
+        QHBoxLayout, QVBoxLayout,
+        QGroupBox, QRadioButton,
+        QPushButton, QLabel, QListWidget, QLineEdit)
